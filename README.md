@@ -9,12 +9,12 @@ Note: The store name is not real name.
 
 ----
 # Project Goals: Problem Statement
-To better understand the performance of the products and the customers of Marbel Home & Kitchen wares, to see the best possible ways to make more sales.
+To better understand the sales performance of the products and the customers of Marbel Home & Kitchen wares, to see the best possible ways to make more sales.
 
 This will help us: 
-•	Identify top-selling products and locations.
-•	Identify the value customers.
-•	Create a targeted marketing campaign that will appeal to customers.
+* Identify top-selling products and locations.
+*	Identify the value customers.
+*	Create a targeted marketing campaign that will appeal to customers.
 
 Key Questions:
 
