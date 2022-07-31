@@ -10,7 +10,7 @@
 # Data Sourcing: 
 
 ----
-# Data transformation:
+# Data Transformation:
 
 ----
 # Findings & Insights
