@@ -16,21 +16,21 @@ This will help us:
 *	Identify the value customers.
 *	Create a targeted marketing campaign that will appeal to customers.
 
-Key Questions:
+##Key Questions:
 
-•	Top 10 selling products
-•	Top 10 categories
-•	Top 10 locations
-•	Gender
-•	Profit by months
-•	Profit by days
-•	Total Orders
-•	Gross Profit
-•	Net Profit
-•	Percentage Profit
-•	Number Of customers
-•	Number of returning customers
-•	Number of new customers
+*	Top 10 selling products
+*	Top 10 categories
+*	Top 10 locations
+*	Gender
+*	Profit by months
+*	Profit by days
+*	Total Orders
+*	Revenue
+*	Net Profit
+*	Percentage Profit
+*	Number Of customers
+*	Number of returning customers
+*	Number of new customers
 
 
 ----
