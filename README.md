@@ -1,4 +1,4 @@
-# Project Name: Mbl-data-summary
+# Project Name: Mbl-Sales-summary
 
 By Azeez Adewale
 ----
