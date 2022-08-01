@@ -3,9 +3,11 @@
 By Azeez Adewale
 ----
 # Introduction:
-Marbel Home & kitchen wares is into the business of selling home and kitchen gadgets, delivering nationwide in Nigeria. The business is taking a proactive step to a sustainable and increased growth in future, it therefore, desires to make best use of the little data captured over a period of one year to make informed marketing decision. 
+Marbel Home & kitchen wares is into the business of selling home and kitchen gadgets, delivering nationwide in Nigeria. The business is taking a proactive step to a sustainable and increased growth in future, it therefore, desires to make best use of the little data captured over a period of one year to make informed marketing decision. You can interact with the dashboard using the Main Orders data file in the repository.
 
-Note: The store name is not the real name. 
+Note:
+* I advice strongly that this dataset should not be copied or reproduced by any means for data privacy reasons.
+* The store name is not the real name. 
 
 ----
 # Project Goals: Problem Statement
