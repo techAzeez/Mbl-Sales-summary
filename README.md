@@ -35,14 +35,15 @@ This will help us:
 
 ----
 # Data Sourcing: 
-Data was captured in an excel file as customers made there order and the sales were closed, this happened largely through one of the stores social media handle, though lately the store launched a website, sales are gradually picking up from there. 
+Data was captured in an excel file as customers made their orders and the sales were closed, this happened largely through one of the stores social media handle, though lately the store launched a website, sales are gradually picking up from there. 
 Data of the customers, products and orders were captured in the customers, products and orders table respectively.
 Going forward sales data will be exported from the ecommerce website and processed for analysis. 
 
 
 ----
 # Data Transformation:
-The dataset had to go through a thorough data cleaning process, like we all know human error are most likely in data entry, so there were anomalies in the dataset. Poor date formatting, missing data, outliers to mention a few, were part of the anomalies I had to correct. As for the poor date formatting I had to use the TEXT TO COLUMN option to split the date entry and used the DATE formula to put them in the right format (yyyy-mm-dd).
+The dataset had to go through a thorough data cleaning process, like we all know human error are most likely to occur in data entry, so there were anomalies in the dataset. Poor date formatting, missing data, outliers to mention a few, were part of the anomalies i had to correct.
+As for the poor date formatting I had to use the TEXT TO COLUMN option to split the date entry and used the DATE formula to put them in the right format (yyyy-mm-dd).
 For the missing data I had to seek clarification from the originators of the data and that helped a lot in filling the missing data with the right ones.
 Some outliers were detected after I carried out EDA on some of the metrics using the MIN, MAX function.
 I used the VLOOKUP function to flatten the orders table to merge some fields from the customers and products table into the orders table as it is my fact table.
@@ -52,16 +53,16 @@ And I was able to also format the fields to the right data type.
 
 ----
 # Findings & Insights
-**Top 10 selling products** 
+**Top 10 Selling products** 
 
 ![top10products](https://user-images.githubusercontent.com/108735886/182164032-173ddc6b-a573-4ccc-af00-99d2e9b9accb.png)
 
 
-*	There over 300 products listed on Marbel store online. 
+*	There are over 300 products listed on Marbel store online. 
 *	Total sales from the top 10 products is over 12 million naira which make up 37% of the total revenue. 
 *	This indicates the viability of these products.
 
-**Top 10 selling Category**
+**Top 10 Selling Category**
 
 ![top10category](https://user-images.githubusercontent.com/108735886/182164086-d8df14f0-01fb-4925-8bd2-f2b425800442.png)
 
@@ -70,7 +71,7 @@ And I was able to also format the fields to the right data type.
 *	Sales from these top 10 categories make up 92% percent of the total revenue.
 *	This indicates the viability of products under these categories.
 
-**Top 10 selling Locations**
+**Top 10 Selling Locations**
 
 ![top10states](https://user-images.githubusercontent.com/108735886/182164133-0b37318c-0123-41d9-9f4e-073f4c5fad12.png)
 
@@ -99,7 +100,7 @@ And I was able to also format the fields to the right data type.
 ![RevenueByDays](https://user-images.githubusercontent.com/108735886/182164263-3b4d9d8c-fdc1-4146-b641-3531062648fc.png)
 
 
-*	Sales were high mostly during the week.
+*	Sales were higher mostly during the week.
 *	Sales were high from Monday - Friday and declined on Saturday.
 *	Sales was at the peak on Tuesday.
 
@@ -125,8 +126,8 @@ And I was able to also format the fields to the right data type.
  The 80/20 rule says 80% of outcomes comes from 20% causes.
  In Marbel marketplace case just about 2.5% of the products brought about 37% of the total revenue. 
  
-*	A larger percentage of Advert campaign budget should be designated for the top 10 products as they are the best selling products.
-*	More products should be explored from the top 10 categories for advert campaign sponsor.
+*	A larger percentage of campaign budget should be designated for advertising the top 10 products as they are the best selling products.
+*	More products should be explored from the top 10 categories for campaign sponsor.
 *	Contents which appeal majorly to the female gender should be written to promote the top 10 products and products under the top 10 categories as they make the bulk of the bestselling products.
 
 **Marketing recommendations:**
