@@ -5,7 +5,7 @@ By Azeez Adewale
 # Introduction:
 Marbel Home & kitchen wares is into the business of selling home and kitchen gadgets, delivering nationwide in Nigeria. The business is taking a proactive step to a sustainable and increased growth in future, it therefore, desires to make best use of the little data captured over a period of one year to make informed marketing decision. 
 
-Note: The store name is not real name. 
+Note: The store name is not the real name. 
 
 ----
 # Project Goals: Problem Statement
